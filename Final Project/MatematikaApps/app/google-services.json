@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "193011290492",
+    "project_id": "matematika-apps",
+    "storage_bucket": "matematika-apps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193011290492:android:1d5908de617834f91494f9",
+        "android_client_info": {
+          "package_name": "com.mariosandy.matematikaapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193011290492-dpg0ddromqaimareh5uvtahvr5blk3da.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz42HeueM5hJeje2mYPJe-G4FDnMXNeu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193011290492-dpg0ddromqaimareh5uvtahvr5blk3da.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/i_counter"
+        android:title="Counter"
+        android:icon="@drawable/ic_circle"/>
+    <item
+        android:id="@+id/i_area_counter"
+        android:title="Area"
+        android:icon="@drawable/ic_triangle" />
+    <item
+        android:id="@+id/i_volume_counter"
+        android:title="Volume"
+        android:icon="@drawable/ic_square"/>
+
+</menu>
